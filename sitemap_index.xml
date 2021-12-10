@@ -1,0 +1,26 @@
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+<loc>https://www.adityatawade.com/</loc>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>https://www.adityatawade.com/#about</loc>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>https://www.adityatawade.com/#project</loc>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>https://www.adityatawade.com/#resume</loc>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>https://www.adityatawade.com/#contact</loc>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>https://www.adityatawade.com/mailto:connect@execulia.com</loc>
+<changefreq>weekly</changefreq>
+</url>
+</urlset>
